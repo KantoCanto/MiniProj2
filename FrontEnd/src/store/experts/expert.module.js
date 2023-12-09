@@ -1,4 +1,4 @@
-import expertService from "@/api/expert.service";
+import expertService from "@/api/expert.service.js";
 import {
   // Actions
   FETCH_EXPERTS,
@@ -12,7 +12,8 @@ import {
 } from "./expert.constants";
 
 const state = {
-  experts: []
+  experts: [],
+  message: null
 };
 
 const getters = {

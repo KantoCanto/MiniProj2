@@ -1,7 +1,7 @@
 <template>
   <section class="page-section">
     <b-container>
-      <HeaderPage title="Gestão de Especialistas" />
+      <HeaderPage title="Gestão de Experts" />
 
       <b-row class="mb-4">
         <b-col>

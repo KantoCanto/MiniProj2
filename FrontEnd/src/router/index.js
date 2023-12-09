@@ -108,6 +108,7 @@ const routes = [
       rule: "user"
     }
   },
+
   {
     path: "/quizzes",
     name: "quizzes",
@@ -140,6 +141,7 @@ const routes = [
       rule: "user"
     }
   },
+
   {
     path: "/admin/sponsors",
     name: "listSponsors",

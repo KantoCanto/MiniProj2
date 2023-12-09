@@ -1,7 +1,7 @@
 <template>
   <section class="page-section">
     <b-container>
-      <HeaderPage title="Gestão de Patrocinadores" />
+      <HeaderPage title="Gestão de Sponsors" />
 
       <!--MENU TOPO-->
       <b-row class="mb-4">
